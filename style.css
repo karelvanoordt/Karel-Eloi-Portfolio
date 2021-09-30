@@ -1,0 +1,70 @@
+#contact-form {
+    width: 70%;
+}
+
+#intro,
+#social-contact-work {
+    width: 80%;
+}
+
+#works{
+    width: 80%;
+}
+
+
+
+
+@media (min-width: 576px) { 
+     #contact-form {
+    width: 80%;
+}
+#intro {
+    width: 70%;
+}
+ }
+
+
+@media (min-width: 768px) { 
+
+      #contact-form {
+    width: 70%;
+}
+
+#intro {
+    width: 60%;
+}
+ }
+
+
+@media (min-width: 992px) { 
+    #contact-form {
+    width: 60%;
+}
+
+#intro {
+    width: 50%;
+}
+ }
+
+
+@media (min-width: 1200px) { 
+    #contact-form {
+    width: 50%;
+}
+
+  #intro {
+    width: 40%;
+}
+ }
+
+
+@media (min-width: 1400px) { 
+
+    #intro {
+    width: 30%;
+}
+
+#contact-form {
+    width: 70%;
+}
+ }
